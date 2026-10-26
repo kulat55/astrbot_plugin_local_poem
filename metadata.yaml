@@ -1,0 +1,13 @@
+name: astrbot_plugin_local_poem
+display_name: 本地古诗
+short_desc: 本地古诗库：/诗接 对句、/诗考 考你古诗、/诗答 判定，离线可用
+desc: 本地古诗库（612 首、2284 联对句，数据随插件打包离线可用）：/诗接 接对句、/诗考 考你古诗、/诗答 交卷判定
+help: |-
+  /诗接 <一句诗> —— 我给出上句或下句，插件从本地诗库对出另一句和出处
+  /诗考 —— 随机抽一联出题考你，回复 /诗答 交卷
+  /诗答 <你的下句> —— 判定对错并给出答案出处
+version: v1.0.0
+author: kulat55
+repo: https://github.com/kulat55/astrbot_plugin_local_poem
+support_platforms:
+  - aiocqhttp
