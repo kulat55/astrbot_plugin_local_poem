@@ -19,9 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-诗库数据（data/poems.json）整理自 chinese-poetry/chinese-poetry 数据集
-（https://github.com/chinese-poetry/chinese-poetry，MIT License，
-Copyright (c) 2016 JackeyGao），选篇：水墨唐诗、唐诗三百首、千家诗。
