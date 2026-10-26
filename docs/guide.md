@@ -224,6 +224,8 @@ Installed plugin astrbot_plugin_local_poem.zip successfully.
 
 ## 8. 发布到 GitHub
 
+> 本项目已于 2026-10-26 发布：https://github.com/kulat55/astrbot_plugin_local_poem（含 v1.0.0 release）。
+
 1. 在 GitHub 新建公开仓库 `astrbot_plugin_local_poem`；
 2. 推送内容：`metadata.yaml`、`main.py`、`README.md`、`data/poems.json`、`docs/guide.md`（本文档）、`LICENSE`（MIT）、`.gitignore`（排除 `__pycache__/`、`.git/`）；
 
